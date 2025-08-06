@@ -1,0 +1,189 @@
+{
+  "total_cycles": 1458,
+  "total_responses": 1176,
+  "responses_today": 6,
+  "last_reset_date": "2025-08-06",
+  "start_time": "2025-06-22T22:33:41.946739",
+  "accounts_stats": {
+    "elonmusk": {
+      "checked": 1068,
+      "responded": 75,
+      "tweets_found": 307
+    },
+    "VitalikButerin": {
+      "checked": 246,
+      "responded": 7,
+      "tweets_found": 24
+    },
+    "cz_binance": {
+      "checked": 760,
+      "responded": 39,
+      "tweets_found": 193
+    },
+    "saylor": {
+      "checked": 1348,
+      "responded": 59,
+      "tweets_found": 334
+    },
+    "APompliano": {
+      "checked": 788,
+      "responded": 80,
+      "tweets_found": 243
+    },
+    "DocumentingBTC": {
+      "checked": 513,
+      "responded": 33,
+      "tweets_found": 125
+    },
+    "PlanB_99": {
+      "checked": 7,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "RaoulGMI": {
+      "checked": 95,
+      "responded": 6,
+      "tweets_found": 26
+    },
+    "balajis": {
+      "checked": 164,
+      "responded": 10,
+      "tweets_found": 39
+    },
+    "brian_armstrong": {
+      "checked": 405,
+      "responded": 21,
+      "tweets_found": 85
+    },
+    "justinsuntron": {
+      "checked": 550,
+      "responded": 23,
+      "tweets_found": 155
+    },
+    "erikvoorhees": {
+      "checked": 9,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "CryptoCapo_": {
+      "checked": 450,
+      "responded": 0,
+      "tweets_found": 69
+    },
+    "pentosh1": {
+      "checked": 988,
+      "responded": 56,
+      "tweets_found": 187
+    },
+    "crypto_birb": {
+      "checked": 1307,
+      "responded": 82,
+      "tweets_found": 319
+    },
+    "cointelegraph": {
+      "checked": 217,
+      "responded": 73,
+      "tweets_found": 155
+    },
+    "BitcoinMagazine": {
+      "checked": 553,
+      "responded": 108,
+      "tweets_found": 317
+    },
+    "coindesk": {
+      "checked": 734,
+      "responded": 91,
+      "tweets_found": 360
+    },
+    "stani": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "haydenzadams": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "AndreCronjeTech": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "CryptMemeCoins": {
+      "checked": 2,
+      "responded": 2,
+      "tweets_found": 3
+    },
+    "DegenerateNews": {
+      "checked": 134,
+      "responded": 7,
+      "tweets_found": 10
+    },
+    "chainlink": {
+      "checked": 626,
+      "responded": 51,
+      "tweets_found": 164
+    },
+    "CoinMarketCap": {
+      "checked": 1207,
+      "responded": 152,
+      "tweets_found": 382
+    },
+    "solana": {
+      "checked": 950,
+      "responded": 84,
+      "tweets_found": 341
+    },
+    "AltcoinGordon": {
+      "checked": 238,
+      "responded": 38,
+      "tweets_found": 147
+    },
+    "kucoincom": {
+      "checked": 74,
+      "responded": 5,
+      "tweets_found": 7
+    },
+    "MarioNawfalcointelegraph": {
+      "checked": 197,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "ErikVoorhees": {
+      "checked": 186,
+      "responded": 3,
+      "tweets_found": 20
+    },
+    "cdixon": {
+      "checked": 148,
+      "responded": 2,
+      "tweets_found": 2
+    },
+    "MarioNawfal": {
+      "checked": 270,
+      "responded": 51,
+      "tweets_found": 110
+    },
+    "jack": {
+      "checked": 170,
+      "responded": 7,
+      "tweets_found": 23
+    },
+    "tyler": {
+      "checked": 184,
+      "responded": 8,
+      "tweets_found": 32
+    },
+    "cameron": {
+      "checked": 151,
+      "responded": 2,
+      "tweets_found": 12
+    }
+  },
+  "search_efficiency": {
+    "cycles_with_responses": 1175,
+    "cycles_without_responses": 269,
+    "average_tweets_per_cycle": 0
+  }
+}

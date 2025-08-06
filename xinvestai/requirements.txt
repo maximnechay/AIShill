@@ -1,0 +1,38 @@
+# FastAPI and server dependencies
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+python-multipart>=0.0.6
+
+# AI and OpenAI
+openai>=1.25.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+pydantic-settings>=2.1.0
+
+# Database (optional - for statistics)
+pymongo>=4.7.0
+
+# Browser automation for auto-responder
+playwright>=1.40.0
+
+# HTTP client and utilities
+httpx>=0.25.0
+aiofiles>=23.2.1
+
+# Development and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+black>=23.11.0
+flake8>=6.1.0
+
+# Monitoring and logging
+structlog>=23.2.0
+
+# Optional: Telegram integration (for future features)
+python-telegram-bot>=20.7
+
+# Build and packaging
+pyinstaller>=6.2.0

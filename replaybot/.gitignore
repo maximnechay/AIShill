@@ -1,0 +1,10 @@
+.env
+__pycache__/
+venv/
+*.log
+*.pyc
+auth/
+auth_alt1/
+auth_alt2/
+auth_main/
+twitter_auth/

@@ -1,0 +1,148 @@
+{
+    "accounts_to_monitor": [
+        "elonmusk",
+        "cb_doge",
+        "cz_binance",
+        "saylor",
+        "VitalikButerin",
+        "justinsuntron",
+        "coinbase",
+        "binance",
+        "whale_alert",
+        "Bitcoin"
+    ],
+    "keywords_to_monitor": [
+        "bitcoin",
+        "btc",
+        "ethereum",
+        "eth",
+        "crypto",
+        "blockchain",
+        "defi",
+        "nft",
+        "web3",
+        "altcoin",
+        "hodl",
+        "moon",
+        "pump",
+        "dump",
+        "bull",
+        "bear",
+        "crash",
+        "rally",
+        "adoption",
+        "regulation",
+        "sec",
+        "fed",
+        "inflation",
+        "digital asset"
+    ],
+    "response_styles": {
+        "positive_tweets": "supportive",
+        "negative_tweets": "analytical",
+        "neutral_tweets": "educational",
+        "hype_tweets": "humorous",
+        "fud_tweets": "provocative"
+    },
+    "response_frequency": {
+        "max_responses_per_hour": 8,
+        "max_responses_per_account": 2,
+        "min_delay_between_responses": 180,
+        "cycle_interval_minutes": 15
+    },
+    "filters": {
+        "min_followers": 1000,
+        "min_likes": 10,
+        "min_retweets": 2,
+        "exclude_retweets": true,
+        "exclude_replies": false,
+        "max_tweet_age_hours": 3,
+        "min_tweet_length": 20,
+        "max_tweet_length": 500
+    },
+    "safety": {
+        "dry_run": true,
+        "require_manual_approval": false,
+        "blacklisted_words": [
+            "scam",
+            "fraud",
+            "ponzi",
+            "illegal",
+            "lawsuit",
+            "banned",
+            "terrorist",
+            "money laundering",
+            "insider trading",
+            "manipulation"
+        ],
+        "max_daily_responses": 30,
+        "max_weekly_responses": 150,
+        "enable_sentiment_filter": true,
+        "min_confidence_score": 0.7
+    },
+    "advanced_targeting": {
+        "priority_accounts": {
+            "elonmusk": {
+                "style_override": "humorous",
+                "max_responses_per_day": 3,
+                "keywords": [
+                    "tesla",
+                    "spacex",
+                    "doge",
+                    "bitcoin"
+                ]
+            },
+            "VitalikButerin": {
+                "style_override": "analytical",
+                "max_responses_per_day": 2,
+                "keywords": [
+                    "ethereum",
+                    "scaling",
+                    "pos",
+                    "merge"
+                ]
+            }
+        },
+        "time_based_rules": {
+            "peak_hours": {
+                "start_hour": 9,
+                "end_hour": 18,
+                "timezone": "UTC",
+                "increased_activity": true
+            },
+            "quiet_hours": {
+                "start_hour": 22,
+                "end_hour": 6,
+                "timezone": "UTC",
+                "reduced_activity": true
+            }
+        }
+    },
+    "response_templates": {
+        "engagement_boosters": [
+            "What are your thoughts on {topic}?",
+            "This reminds me of {historical_event}",
+            "Great point about {key_insight}!"
+        ],
+        "question_starters": [
+            "But have you considered {alternative_view}?",
+            "How does this compare to {comparison}?",
+            "What's your take on {related_topic}?"
+        ]
+    },
+    "monitoring": {
+        "log_level": "INFO",
+        "save_screenshots": false,
+        "track_engagement": true,
+        "export_analytics": true,
+        "webhook_notifications": {
+            "enabled": false,
+            "url": "",
+            "events": [
+                "response_sent",
+                "error",
+                "daily_summary"
+            ]
+        }
+    }
+}

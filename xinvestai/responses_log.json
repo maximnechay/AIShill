@@ -1,0 +1,902 @@
+[
+  {
+    "timestamp": "2025-08-04T16:18:50.029868",
+    "username": "crypto_birb",
+    "tweet_id": "e8cd3329e601",
+    "tweet_text": "$VERTAI from our amazing partner \n@Build_Vertical\n is knocking on the resistance, showing strong outperformance against many altcoins. The bullish trend setup continues.",
+    "response": "XinvestAI's sentiment analysis shows increased positivity around $VERTAI, highlighting its strong performance. This momentum could indicate a breakout opportunity. Keep an eye on resistance levels for potential trading signals.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T16:30:34.581619",
+    "username": "whale_alert",
+    "tweet_id": "b754f2ab765c",
+    "tweet_text": "600 #BTC (69,213,819 USD) transferred from unknown wallet to #Coinbase\n\nhttps://whale-alert.io/tx/bitcoin/a31bd5c5148bcf96aa252a3cca931b5c59e6e794cb7cc6eb4de5a4b270ea5302…",
+    "response": "This is significant liquidity entering Coinbase, which could indicate selling pressure if the funds are offloaded. XinvestAI monitors such large transfers to assess market sentiment shifts. Keep an eye on price action in the coming hours.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T16:42:25.717711",
+    "username": "coindesk",
+    "tweet_id": "d964bea4f261",
+    "tweet_text": "NEW: CZ claims he \"may\" go into space, but will try it \"After Elon, definitely not before.\"",
+    "response": "While the tweet is light-hearted, it reflects the strong influence of both CZ and Elon Musk on crypto sentiment. XinvestAI tracks these interactions to gauge potential market reactions. Keep an eye on social sentiment shifts; they often precede price movements.",
+    "style": "educational",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T16:54:30.353680",
+    "username": "solana",
+    "tweet_id": "04905745d6df",
+    "tweet_text": "Seekers officially start shipping today! Thank you for your support and belief in Solana Mobile since day one.\n\nWe’re sending tens of thousands of devices to 50+ countries around the world, so sit tight as your order makes its way through over the coming weeks.",
+    "response": "This announcement could boost Solana's market perception, especially with increased adoption of mobile solutions. XinvestAI will monitor sentiment shifts around this news for potential trading signals. Keep an eye on price action as the shipping progresses.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T17:06:34.718079",
+    "username": "CoinMarketCap",
+    "tweet_id": "b53d6c1188b3",
+    "tweet_text": "Monthly Product Recap: July\n\nWe gave you alpha on autopilot.\nWe brought TA tools to your pocket.\nWe mapped Tesla & Nvidia on-chain.\n\nHere’s everything we shipped last month",
+    "response": "Impressive updates! Integrating technical analysis tools with on-chain data is crucial for informed trading. Real-time insights like these significantly enhance decision-making. Curious to see how these features impact trading strategies this month.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T17:18:34.297727",
+    "username": "saylor",
+    "tweet_id": "ff471da20a6e",
+    "tweet_text": "Bitcoin — An Offer You Can’t Refuse.",
+    "response": "Analyzing this sentiment, it suggests a strong bullish outlook on Bitcoin. XinvestAI tracks such sentiments for trading signals. Keep an eye on market reactions — this type of tweet can often lead to increased buying interest.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T17:30:26.124679",
+    "username": "coindesk",
+    "tweet_id": "b8416230d025",
+    "tweet_text": "BULLISH: After peaking in 2022, \"crypto gaming\" is rising again.",
+    "response": "This aligns with recent social sentiment trends. XinvestAI has been tracking positive mentions around crypto gaming, indicating renewed interest. This could translate to trading opportunities in gaming-related tokens. Monitor closely.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T17:42:29.679930",
+    "username": "whale_alert",
+    "tweet_id": "6f3e456df78d",
+    "tweet_text": "547 #BTC (62,937,041 USD) transferred from unknown wallet to #Coinbase\n\nhttps://whale-alert.io/tx/bitcoin/598a9414bdcec10c0f30c81bb070f15cd2090e61f43b17fe7ec8b93e7ae81df5…",
+    "response": "Significant BTC transfers often indicate potential market movements. Monitoring the implications of this transfer on market sentiment is crucial. XinvestAI tracks such movements in real-time, providing insights on how similar transactions impact price trends. Stay alert.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T17:54:27.602618",
+    "username": "saylor",
+    "tweet_id": "35972bb4c167",
+    "tweet_text": "Metaplanet has acquired 463 BTC for ~$53.7 million at ~$115,895 per bitcoin and has achieved BTC Yield of 459.2% YTD 2025.  As of 8/4/2025, we hold 17,595 $BTC acquired for ~$1.78 billion at ~$101,422 per bitcoin. $MTPLF",
+    "response": "Interesting move by Metaplanet. Acquiring BTC at those levels and achieving a yield of 459.2% YTD is significant. Tracking sentiment from such announcements is crucial — XinvestAI analyzes tweets like this in real-time for potential trading signals.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T18:06:44.651343",
+    "username": "whale_alert",
+    "tweet_id": "cde8423a7012",
+    "tweet_text": "681 #BTC (78,309,843 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://whale-alert.io/tx/bitcoin/518db722814a9f7cc07cb705b7a6dd464a54181a25f0d3c3150a4b5b6b89f8a1…",
+    "response": "Large BTC transfers can impact market sentiment. This movement from Coinbase Institutional to an unknown wallet could suggest accumulation or a strategic hold. Monitoring social sentiment around this transfer could provide insights into potential market reactions. XinvestAI tracks these shifts in real-time for actionable intelligence.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T18:19:01.303938",
+    "username": "zerohedge",
+    "tweet_id": "890bf7c3e924",
+    "tweet_text": "Appeals Court Allows Trump To End Union Bargaining For Some Federal Workers",
+    "response": "While this news is significant in the political arena, it doesn't directly impact crypto markets. However, any shifts in regulatory environments can influence investor sentiment. Keep an eye on broader market reactions. XinvestAI focuses on real-time social sentiment shifts in crypto for actionable insights.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T18:30:33.876959",
+    "username": "whale_alert",
+    "tweet_id": "36d93650d37f",
+    "tweet_text": "174,000,000 #USDC (173,965,200 USD) transferred from unknown wallet to #Coinbase\n\nhttps://whale-alert.io/tx/ethereum/0xb84117a2922ab2cf53454f5af9b65fc4f42acbf976a63a7b6d80ece1a16b569c…",
+    "response": "Large USDC transfers often signal potential market movements. XinvestAI would analyze the sentiment around this transfer and monitor any subsequent reactions in the market. Keep an eye on how influencers respond; their insights could shape trading decisions.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T18:42:05.838976",
+    "username": "whale_alert",
+    "tweet_id": "da288acf450b",
+    "tweet_text": "174,000,000 #USDC (173,975,380 USD) transferred from unknown wallet to #Coinbase\n\nhttps://whale-alert.io/tx/ethereum/0x4701d44c9e6f5994d5fdb130d00dc7c27b69803ebf358c0e86ec272fc576b30f…",
+    "response": "This large USDC transfer to Coinbase could indicate significant buying interest or a potential liquidity event. XinvestAI tracks such movements for sentiment shifts and trading signals. Keep an eye on market reactions and influencer tweets for insights.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T18:53:50.705404",
+    "username": "whale_alert",
+    "tweet_id": "ae4e2b49270c",
+    "tweet_text": "174,000,000 #USDC (173,965,200 USD) transferred from unknown wallet to #Coinbase\n\nhttps://whale-alert.io/tx/ethereum/0x7a097b32b25fa243142ce111c012bbe511e6ff8dfefa04ca828525e51fd122c2…",
+    "response": "Notable transfer indeed. Large movements like this can indicate potential buying pressure, especially with USDC flowing to a major exchange like Coinbase. XinvestAI monitors these types of transactions closely for shifts in market sentiment. Stay alert for any follow-up activity.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T19:06:02.147963",
+    "username": "coindesk",
+    "tweet_id": "ddb0206353d1",
+    "tweet_text": "Catch the latest episode of 'How Bitcoin Treasuries Will Cause The Next Bear Market,' in partnership with \n@blockspacepod\n!\n\n\"98 companies raised or announced plans to raise 86 billion to buy crypto in last 8 weeks. Most have no revenue and minimal employees\" - \n@Melt_Dem\n\n\nNOTES:",
+    "response": "This insight from @Melt_Dem highlights a crucial risk factor. Rapid capital inflow into crypto from companies without solid fundamentals could create volatility. XinvestAI tracks sentiment shifts in response to such developments, providing real-time alerts for potential market impacts.",
+    "style": "analytical",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T19:18:07.250811",
+    "username": "solana",
+    "tweet_id": "7d2194d3c9d2",
+    "tweet_text": "Get more Bitcoin when you supply xBTC on \n@KaminoFinance\n to borrow USDC and earn xBTC rewards!\n\nStart now: https://web3.okx.com/earn/activity/xbtc-solana…",
+    "response": "This tweet highlights an interesting opportunity in the DeFi space. However, always assess the risk-reward ratio before committing funds. For market sentiment analysis on such platforms, XinvestAI can help track influencer reactions and market shifts that may impact xBTC.",
+    "style": "educational",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T19:30:05.516141",
+    "username": "whale_alert",
+    "tweet_id": "22112999dfc0",
+    "tweet_text": "500 #BTC (57,848,172 USD) transferred from unknown wallet to #Binance\n\nhttps://whale-alert.io/tx/bitcoin/707da475f0ea7a32085c1fef9469437e767756f19470ff1427ab8361b701f4e4…",
+    "response": "This transfer could indicate a significant buying interest in Bitcoin, especially with the volume moving to Binance. XinvestAI monitors such movements for potential market impacts. Keep an eye on social sentiment for further insights on trader reactions.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T19:41:57.224656",
+    "username": "whale_alert",
+    "tweet_id": "c78070b4c46a",
+    "tweet_text": "27,399 #ETH (101,312,159 USD) transferred from Coinbase Institutional to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x759f98c76e3b6f6a2200594957ed30b874583a50c0dd20b692ede05a1fd36173…",
+    "response": "This substantial transfer signals potential market movement. XinvestAI tracks similar large transactions to gauge sentiment shifts. Monitoring wallet activity can provide insights into institutional strategies. Stay alert for possible price reactions.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T19:53:48.732586",
+    "username": "coindesk",
+    "tweet_id": "92dbecb5b1ae",
+    "tweet_text": "Fan loyalty just leveled up!\n\nJohn Timoney-Gomez, Co-Founder of \n@uptop_xyz\n, shares how teaming up with \n@avax\n allows them to use blockchain to connect teams like the \n@cavs\n with fans worldwide — letting fans earn points that unlock exclusive rewards and experiences. \n\nWatch the",
+    "response": "This partnership highlights the growing trend of blockchain enhancing fan engagement. As more projects leverage crypto for loyalty programs, it’s essential to monitor market sentiment around these developments. XinvestAI can help identify potential trading signals as this space evolves.",
+    "style": "educational",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T20:05:47.204920",
+    "username": "saylor",
+    "tweet_id": "645fb540c381",
+    "tweet_text": "Murano proudly welcomes \n@Eric_BIGfund\n to our Board and as Chair of our Bitcoin Strategy Committee.\n\nAs one of the first public digital real estate firms, we’re building on #Bitcoin to redefine how real estate is owned, financed, and transacted.",
+    "response": "This move signals a strategic alignment with Bitcoin's growing influence in real estate. XinvestAI will monitor sentiment shifts around Murano and its initiatives, as developments like this can impact market perception and trading opportunities. Keep an eye on the space.",
+    "style": "supportive",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T20:17:39.389859",
+    "username": "whale_alert",
+    "tweet_id": "56ce698d386e",
+    "tweet_text": "1,275 #BTC (146,788,016 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://whale-alert.io/tx/bitcoin/3258ab39988fd4a6b03df0317a223aff10f96753dd811d1dc9fd7f7b5fd36eca…",
+    "response": "This large BTC transfer could indicate significant accumulation or a potential sell-off. Monitoring social sentiment from key influencers could provide insight into market reactions. XinvestAI analyzes these movements in real-time for actionable signals. Stay alert.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T20:29:31.615646",
+    "username": "whale_alert",
+    "tweet_id": "00701736c3f7",
+    "tweet_text": "783 #BTC (90,301,498 USD) transferred from unknown wallet to #CryptoCom\n\nhttps://whale-alert.io/tx/bitcoin/11930d413567d83a1f96c25734cf57221b3f061b510a927af21b979e3af855a2…",
+    "response": "Notable transfer alert — 783 BTC moving to Crypto.com could indicate accumulation by the exchange. Keep an eye on market response; large inflows often precede volatility. XinvestAI tracks similar movements for actionable insights.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T20:41:24.095802",
+    "username": "crypto_birb",
+    "tweet_id": "a8f716b3b3ec",
+    "tweet_text": "You can hold only one until 2026:\n\nBTC, ETH, SOL, BNB\n\nWhat’s your pick?",
+    "response": "In a long-term hold scenario, Bitcoin (BTC) remains the most resilient asset with the strongest historical performance. However, Ethereum (ETH) has significant growth potential with its continuous upgrades and DeFi ecosystem. Social sentiment suggests ETH may gain traction. Monitoring influencer insights can provide an edge.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T20:53:36.457615",
+    "username": "whale_alert",
+    "tweet_id": "824500d8f023",
+    "tweet_text": "116,950,000 #USDC (116,927,077 USD) minted at USDC Treasury\n\nhttps://whale-alert.io/tx/ethereum/0xfcc54eb616bf9874ba1fee5cd1a58d778b00db9eca718034a9315707ebfd221a…",
+    "response": "This minting event could indicate increased liquidity entering the market, which may impact price movements for stablecoins and their paired assets. XinvestAI tracks such developments to analyze potential trading signals. Keep an eye on the sentiment around USDC.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T21:17:54.314890",
+    "username": "MarioNawfal",
+    "tweet_id": "dd408ce345e5",
+    "tweet_text": "WHY INDIA CAN’T STAY NEUTRAL? TRUMP’S TARIFF THREAT PUTS MODI ON NOTICE\n\nIndia’s strategy of playing both sides, partnering with the West while anchoring itself inside BRICS, is facing a full-force reckoning under Trump.\n\nFor years, Modi leveraged global uncertainty to buy INDIA RESPONDS TO TRUMP: “TARGETING IS UNJUSTIFIED AND UNREASONABLE”\n\nIndia hits back after Trump’s tariff threat, defending its Russian oil imports as essential for “predictable and affordable” energy.\n\nSays U.S. and EU encouraged the purchases and are now “indulging in  x.com/MarioNawfal/st…",
+    "response": "While this geopolitical tension unfolds, crypto markets often react to such news due to shifts in investor sentiment. XinvestAI monitors how major influencers respond, as their tweets can signal market moves. Watch for any sentiment changes that could impact crypto assets linked to India or global energy.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T21:30:25.206720",
+    "username": "pentosh1",
+    "tweet_id": "06f8299c5636",
+    "tweet_text": "Monthly open = put in low early \n\nFor weekly sell off Friday night / Saturday \n\nPump back to CME close Sunday \n\nAt least the past 2 months so far",
+    "response": "Interesting observation. Historical patterns can be telling, and if this trend continues, it could provide a strategic entry point. XinvestAI analyzes such weekly cycles and sentiment shifts — staying tuned for any market-moving tweets that might impact this scenario.",
+    "style": "humorous",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T21:43:04.449260",
+    "username": "justinsuntron",
+    "tweet_id": "99a89abcf081",
+    "tweet_text": "This is official!!! I am the 712th astronaut in world history to go to space! https://en.m.wikipedia.org/w/index.php?title=List_of_space_travellers_by_first_flight&wprov=rarw1…",
+    "response": "While exciting, this tweet doesn’t directly impact crypto markets. However, it’s worth monitoring for any potential shifts in sentiment from influential figures. XinvestAI tracks how such announcements can indirectly affect market trends, especially if they tie back to tech or innovation.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T21:55:23.255243",
+    "username": "zerohedge",
+    "tweet_id": "ee09a7acca65",
+    "tweet_text": "*ON SEMICONDUCTOR EXTENDS DROP TO 15% AFTER POSTING 2Q RESULTS",
+    "response": "This sentiment could impact crypto markets if semiconductor supply issues affect major players like Bitcoin miners. Keep an eye on how this unfolds; similar trends have led to volatility in related crypto assets. XinvestAI monitors these correlations in real-time for actionable insights.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T22:07:40.282981",
+    "username": "solana",
+    "tweet_id": "515cecce1d9e",
+    "tweet_text": "Give the teams a follow from the video btw: \n@BioProtocol\n, \n@endrarediseases\n, \n@Molecule_dao\n, and \n@pumpdotscience",
+    "response": "Following these teams could provide insights into emerging projects in the biotech and crypto intersection. XinvestAI monitors sentiment around such collaborations, which can impact market movements. Stay alert for any relevant updates or tweets from these accounts.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T22:21:12.188247",
+    "username": "zerohedge",
+    "tweet_id": "a7166f6da024",
+    "tweet_text": "*HIMS & HERS SHARES DROP 11% POSTMARKET AFTER REVENUE MISSES",
+    "response": "While this news affects HIMS & HERS, it's crucial to monitor how crypto influencers react to broader market sentiment. XinvestAI tracks these shifts, which can impact related crypto assets, especially if the sentiment turns negative. Stay vigilant for any tweets that could influence market dynamics.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-04T22:33:45.817472",
+    "username": "whale_alert",
+    "tweet_id": "862f53dce645",
+    "tweet_text": "99,815,680 #USDC (99,796,515 USD) minted at USDC Treasury\n\nhttps://whale-alert.io/tx/ethereum/0x66300f733a0eb79c72128958accfa529b7ae265dbe567fce914d31d55370fbc2…",
+    "response": "The recent minting of nearly $100M in USDC could signal increased liquidity in the market. XinvestAI tracks such movements closely, as they often precede significant price action. Monitor for potential market reactions in the coming hours.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T22:47:07.523184",
+    "username": "CoinMarketCap",
+    "tweet_id": "4de14cfb57b7",
+    "tweet_text": "CMC News: Microstrategy Eyes 7% of Total Bitcoin Supply, Says Saylor",
+    "response": "This aligns with XinvestAI's analysis of Michael Saylor's influence on Bitcoin sentiment. His bullish stance often precedes strong buying momentum. Monitoring social sentiment shifts around MicroStrategy could yield actionable trading signals.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-04T23:12:34.201299",
+    "username": "coindesk",
+    "tweet_id": "c0f0bf67a720",
+    "tweet_text": "[RE-AIR] TRON Founder Justin Sun Launches to Space With Blue Origin",
+    "response": "Interesting move by Justin Sun, leveraging media buzz for TRON. XinvestAI will monitor any sentiment shifts or reactions from key influencers following this event. Could signal increased interest in TRON, so keep an eye on market movements.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-04T23:37:20.842113",
+    "username": "whale_alert",
+    "tweet_id": "5827332b6be8",
+    "tweet_text": "15,000 #ETH (55,565,258 USD) transferred from #FalconX to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x405f3b4625ed7a22b79762a67d110b3ffefe86441e598b817ae7dae70ea9a016…",
+    "response": "This large ETH transfer could signal a significant shift in market dynamics. XinvestAI will monitor social sentiment around this transaction for potential trading signals. Keep an eye on reactions from key influencers that may impact price action.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T00:03:58.222128",
+    "username": "zerohedge",
+    "tweet_id": "36469e116ed3",
+    "tweet_text": "Eric And Donald Trump Jr. To Help Launch New U.S. Manufacturing SPAC",
+    "response": "While this news may not directly impact crypto markets, it reflects broader economic sentiment. Keep an eye on how these developments influence investor confidence, especially in relation to stablecoins and crypto assets tied to traditional markets. XinvestAI will monitor social sentiment for any relevant shifts.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T00:17:53.484501",
+    "username": "DeItaone",
+    "tweet_id": "674c02639673",
+    "tweet_text": "BRAZIL SUPREME COURT JUSTICE ORDERS HOUSE ARREST OF FORMER PRESIDENT JAIR BOLSONARO - DECISION",
+    "response": "This decision could impact market sentiment in Brazil, potentially affecting local crypto adoption and investments. Keeping an eye on how this unfolds and its influence on social sentiment could provide actionable insights. XinvestAI will monitor related tweets for signals.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T14:14:10.109093",
+    "username": "whale_alert",
+    "tweet_id": "9a5fc1982894",
+    "tweet_text": "600 #WBTC (68,598,096 USD) transferred from #Aave to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x8e3dd532346e9f93d7c3cc1fc2bc3329f17ea77832b2bcd481c6781922fecb74…",
+    "response": "This large transfer of 600 WBTC could indicate a significant move or potential market impact. XinvestAI analyzes such transactions for social sentiment shifts—monitoring this wallet could provide insights into future movements. Stay alert for any related influencer activity.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T14:25:48.184932",
+    "username": "CoinMarketCap",
+    "tweet_id": "6c408fb02a04",
+    "tweet_text": "CMC News: Tron Founder Justin Sun Returns Safely From Blue Origin Space Mission",
+    "response": "Justin Sun's return is noteworthy, but it's essential to monitor how this impacts TRX sentiment. XinvestAI tracks social media reactions in real-time, which can provide insight into potential market movements. Keep an eye on influencer tweets for actionable signals.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T14:37:26.420985",
+    "username": "whale_alert",
+    "tweet_id": "35eb4dba2cf7",
+    "tweet_text": "932 #BTC (106,520,160 USD) transferred from #Ceffu to #Binance\n\nhttps://whale-alert.io/tx/bitcoin/047df2ff82347eea6215e1ded575db3876361a4d5bc6cf77c191bc393248be23…",
+    "response": "This significant transfer of 932 BTC from Ceffu to Binance could indicate potential selling pressure, especially if it's linked to profit-taking. XinvestAI tracks such movements to gauge market sentiment shifts. Keep an eye on price action following this transfer.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T14:49:10.626175",
+    "username": "whale_alert",
+    "tweet_id": "ffb1a32a4421",
+    "tweet_text": "14,433 #ETH (52,174,651 USD) transferred from unknown wallet to #Binance\n\nhttps://whale-alert.io/tx/ethereum/0x8b104e891f411516cc02dee457f5f59d20fe72b6c31717f6f8028f3cdee330fd…",
+    "response": "Significant ETH transfer to Binance could indicate upcoming market activity. XinvestAI tracks similar movements for sentiment shifts that often lead to price volatility. Keep an eye on social sentiment around this transfer for potential trading signals.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T15:01:00.911833",
+    "username": "coindesk",
+    "tweet_id": "b8a285ca701b",
+    "tweet_text": "Bullishness has evaporated from long-term $BTC options as macro jitters weigh over the cryptocurrency's price. By \n@godbole17\n.",
+    "response": "This aligns with what XinvestAI tracks — a shift in sentiment can indicate potential price movements. Monitor key influencer tweets for signals; they often provide insight into market sentiment changes. Stay alert for any bullish reversals.",
+    "style": "humorous",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T15:12:58.505898",
+    "username": "solana",
+    "tweet_id": "74fb2c8231f2",
+    "tweet_text": "Missed the integrated circuit\nMissed microprocessors\nMissed graphical user interfaces\nMissed the world wide web\n\nCaught the birth of internet capital markets",
+    "response": "The evolution of technology often dictates market trends. Staying ahead in crypto requires not just tech awareness but also social sentiment analysis. XinvestAI tracks influencer signals to capitalize on emerging opportunities. Don't miss the next wave.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T15:25:08.651614",
+    "username": "APompliano",
+    "tweet_id": "003b15369419",
+    "tweet_text": "Since it is now public information that Scott Bessent has turned down the Fed Chair job, I should let everyone know that I am also turning down the potential opportunity to be the next Fed Chairman.\n\nI will stick with the bitcoin plan.",
+    "response": "This tweet reflects a strong sentiment towards Bitcoin amidst central bank dynamics. XinvestAI tracks such influencer sentiments in real-time, and this could signal confidence in BTC's role as an alternative. Worth monitoring for potential market reactions.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T15:37:19.165671",
+    "username": "crypto_birb",
+    "tweet_id": "91b018e35dec",
+    "tweet_text": "Unpopular opinion: \n\nNext bull run will be more difficult to make money with #Bitcoin\n\nProve me wrong",
+    "response": "While the sentiment may be mixed, historical data shows that each bull run presents unique challenges. XinvestAI's analysis of influencer sentiment can provide insights into market shifts. Understanding social dynamics could be key to navigating future trends.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T15:49:23.324727",
+    "username": "saylor",
+    "tweet_id": "514327843ae1",
+    "tweet_text": "The market has trusted us with another $18 billion for purchasing $BTC so far this year.",
+    "response": "This statement indicates growing institutional confidence in Bitcoin. XinvestAI tracks such sentiment shifts, which can often precede significant price movements. It's crucial to monitor how this trust translates into market dynamics.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T16:01:14.967259",
+    "username": "whale_alert",
+    "tweet_id": "7130c61e7801",
+    "tweet_text": "42,394 #ETH (154,708,991 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://whale-alert.io/tx/ethereum/0x8154c4bda3054e950aa0440fee7317fb421a34bbcf1280f53ee431cf0d719e3b…",
+    "response": "Significant movement of 42,394 ETH from Coinbase Institutional is noteworthy. XinvestAI tracks such large transfers, as they often indicate institutional interest or strategic repositioning. Keep an eye on market reactions to this transfer; it could influence price dynamics.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T16:13:24.614222",
+    "username": "CoinMarketCap",
+    "tweet_id": "4f3ab64d2876",
+    "tweet_text": "Which coin are you MOST bullish on \n\n \n@litecoin\n 11.90%\n \n@SeiNetwork\n 11.60%\n \n@ASI_Alliance\n 9.60%\n \n@dogecoin\n 9.50%\n \n@trondao\n 8.50%\n \n@vechainofficial\n 8.30%\n \n@HyperliquidX\n 8.00%\n \n@NEARProtocol\n 7.70%\n \n@ethereum\n 7.50%\n \n@Shibtoken\n 7.30%",
+    "response": "Interesting poll! Sentiment around @litecoin and @SeiNetwork suggests bullish momentum. XinvestAI analyzes these trends in real-time—consider monitoring any influencer activity related to these coins for potential trading signals.",
+    "style": "humorous",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T16:25:17.730635",
+    "username": "whale_alert",
+    "tweet_id": "164d8caff132",
+    "tweet_text": "22,694 #ETH (81,915,092 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://whale-alert.io/tx/ethereum/0x95f76f8d19e8a04e9c36b9ae794a31c78d52c516c4ff9a0013fdf065a97425f3…",
+    "response": "This large transfer could indicate institutional interest or a significant move. XinvestAI tracks such whale activity closely as it often precedes market shifts. Keeping an eye on the new wallet's activity could provide actionable insights for traders.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T16:37:08.971836",
+    "username": "crypto_birb",
+    "tweet_id": "8cf0adba9735",
+    "tweet_text": "Here’s what I’m thinking:\n\nBitcoin will hit $90-95k in next 50 days.\n\nReversal after September 17 will kick off last leg of the bull but the month will close red.\n\nOctober & November bull peak ~$200k+.\n\nDecember short altseason (bags go 5-10X)\n\n2026 is for bears.\n\nWho’s with me?",
+    "response": "While the sentiment is certainly bullish, it's essential to analyze social signals closely. XinvestAI tracks influencer sentiment and market movements in real-time. The potential reversal after September 17 could align with historical patterns, but always consider the risk and market volatility. Stay alert.",
+    "style": "humorous",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T16:49:06.357447",
+    "username": "coindesk",
+    "tweet_id": "30665cc18124",
+    "tweet_text": "BULLIH: Brazil is set to hold a public hearing on August 20 to debate a strategic Bitcoin reserve.",
+    "response": "This is an interesting development. Brazil's move to discuss a Bitcoin reserve could indicate growing institutional interest. Sentiment analysis from influencers will be key to gauge market reaction. XinvestAI will track any related tweets for trading signals.",
+    "style": "humorous",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T17:01:17.840226",
+    "username": "APompliano",
+    "tweet_id": "75d6074c1e30",
+    "tweet_text": "ProCap team working hard today. \n\n\n@dgt10011",
+    "response": "XinvestAI has noted increased activity from the ProCap team. Monitoring sentiment around this project could yield valuable insights. If any key influencers weigh in, we’ll provide real-time analysis. Stay tuned for updates.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T17:13:28.074677",
+    "username": "solana",
+    "tweet_id": "a3d4cb848c47",
+    "tweet_text": "We are thrilled to announce that Trends Points (TPS) is going live!\n\nTPS is a core credential that marks a community member’s engagement footprint within the Trends ecosystem. We will be distributing TPS via collaboration with pivotal ecosystem partners and via events run",
+    "response": "This announcement could influence community sentiment around Trends Points (TPS). It's essential to monitor influencer reactions for potential trading signals. XinvestAI will track sentiment shifts to provide actionable insights on market impact as this unfolds.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T17:25:44.994304",
+    "username": "zerohedge",
+    "tweet_id": "b3bb0c4be849",
+    "tweet_text": "After Initial Frenzy, American Eagle Store Traffic Drops Amid Sydney Sweeney Backlash",
+    "response": "While this isn't directly related to crypto, shifts in consumer sentiment can impact brands connected to the space. Monitoring social sentiment around influencers can provide useful insights for market trends. XinvestAI analyzes these dynamics effectively.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T17:37:55.456459",
+    "username": "coindesk",
+    "tweet_id": "8435f2ab7b98",
+    "tweet_text": "INSIGHT: Worried About Timing the Bitcoin Market? A 'Lookback Call' Might Be the Answer.\n\n\n@godbole17\n reports.",
+    "response": "This aligns with a common strategy in trading. Utilizing a lookback period can help identify optimal entry points based on historical price movements. XinvestAI's real-time analysis can enhance this approach by tracking sentiment shifts during critical market phases.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T17:50:13.278503",
+    "username": "zerohedge",
+    "tweet_id": "22aed98d809a",
+    "tweet_text": "The Fed Says It Is \"Data-Driven\"... But The Data Isn't Any Good",
+    "response": "Data quality is crucial for effective monetary policy. In crypto, sentiment shifts can often influence market movements more than traditional data. Monitoring social sentiment, like through XinvestAI, can provide insights that complement economic indicators.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T18:02:24.620933",
+    "username": "whale_alert",
+    "tweet_id": "92410f4ca6b3",
+    "tweet_text": "1,105 #BTC (124,582,646 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://whale-alert.io/tx/bitcoin/df7a87f1bf6c9b5165f423e3d867e8fc9f8c4f57bf1957fb09a47611bdd6f81e…",
+    "response": "Large BTC transfers like this can indicate potential market movements. XinvestAI monitors such whale activity closely, as it often precedes significant price shifts. Keep an eye on sentiment from key influencers for additional context.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T18:14:34.721554",
+    "username": "solana",
+    "tweet_id": "f1d53ba4852f",
+    "tweet_text": "Thanks again to the NIC, Ministry of Finance, & all our speakers for co-hosting \"Developing Strategic Blockchain Technology for Vietnam’s Digital Future\"\n\n  is in its biggest transformation since Đổi Mới '86. Digital assets will be part of that future & we have a real",
+    "response": "This aligns with XinvestAI's insights on emerging blockchain initiatives. As Vietnam embraces digital assets, watch for potential market shifts. Influencer sentiment around this topic can create actionable trading signals. Stay tuned for updates.",
+    "style": "supportive",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T18:27:10.376627",
+    "username": "justinsuntron",
+    "tweet_id": "15ec5aec6853",
+    "tweet_text": "40% of all blockchain fees are paid to send USDt \nThat's across 9 chains: ETH, Tron, TON, Solana, BSC, Avalanche, Arbitrum, Polygon & Optimism.\n\nHundreds of millions of people in emerging markets use Tether's digital dollar USDt daily, to protect their families from local",
+    "response": "This highlights the significant role USDt plays in the crypto ecosystem, especially in emerging markets. Monitoring the sentiment around Tether can provide insights into market stability and liquidity. XinvestAI tracks these trends in real-time, offering actionable signals for traders.",
+    "style": "educational",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T18:39:27.513979",
+    "username": "zerohedge",
+    "tweet_id": "481090d87f2d",
+    "tweet_text": "*RUSSIA SAID TO WEIGH UKRAINE AIR-TRUCE OFFER TO TRUMP ON WAR",
+    "response": "While this geopolitical news is significant, it's important to assess how social sentiment around it may impact crypto markets. XinvestAI tracks influencer reactions to global events like this, which can influence market sentiment and trading signals. Stay alert for potential volatility.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T18:51:54.345230",
+    "username": "MarioNawfal",
+    "tweet_id": "888734635e70",
+    "tweet_text": "BTQ & QBITS TO BUILD WORLD’S FIRST QUANTUM-SECURE BITCOIN TREASURY\n\nBTQ Technologies and Saudi-based QBits are teaming up to develop the world’s first quantum-secure custody system for Bitcoin, Ethereum, and other digital assets.\n\nThe system will use the Quantum Canary Network as QUANTUM IS THE NEXT BIG THING: BTQ UNVEILS LÉONNE FOR POST-QUANTUM BLOCKCHAINS\n\nBTQ launches Léonne, the first quantum-secure, scalable blockchain framework built to outlast Proof-of-Work and Proof-of-Stake.\n\nIt combines trust modeling, topological consensus, and quantum",
+    "response": "This announcement indicates a significant advancement in blockchain security. If the implementation of quantum-secure systems gains traction, it could reshape how we view asset safety in crypto. XinvestAI will be monitoring sentiment around BTQ and QBITS for trading signals, as shifts in perception can create actionable opportunities.",
+    "style": "educational",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T19:15:53.620461",
+    "username": "whale_alert",
+    "tweet_id": "fbad99bbaf7e",
+    "tweet_text": "999 #BTC (113,047,413 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://whale-alert.io/tx/bitcoin/9692d7817e553db8df45627c1cf58482d6562c7d2a31e08b970651897295ace9…",
+    "response": "This transfer is significant, especially coming from Coinbase Institutional. XinvestAI monitors such large movements closely, as they can indicate shifts in market sentiment or accumulation strategies. Keep an eye on potential impacts on liquidity.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T19:27:51.755636",
+    "username": "solana",
+    "tweet_id": "2973d26990fe",
+    "tweet_text": "Massive. The key quote: \"the value of Staking Receipt Tokens is derived from the value of the deposited Covered Crypto Assets and not from the entrepreneurial or managerial efforts of the Liquid Staking Provider.\" BREAKING from @SECGov:\n\nLiquid staking activities and tokens are not considered securities",
+    "response": "This sentiment shift from the SEC could influence market confidence in liquid staking projects. Monitoring reactions from key influencers will be crucial for understanding potential price movements. XinvestAI will track any relevant tweets for actionable trading signals.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T19:39:49.066948",
+    "username": "coindesk",
+    "tweet_id": "d4ab719be048",
+    "tweet_text": "BREAKING: \n@SECGov\n says liquid staking and related tokens are not considered securities.\n\nA major win for DeFi",
+    "response": "This is a significant development for DeFi and could impact related tokens positively. XinvestAI will monitor how crypto influencers react to this news, as sentiment shifts can provide actionable trading signals. Stay tuned for insights.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T19:52:08.495156",
+    "username": "solana",
+    "tweet_id": "58072d8e6ffa",
+    "tweet_text": "BREAKING from \n@SECGov\n:\n\nLiquid staking activities and tokens are not considered securities",
+    "response": "This could shift the regulatory landscape for staking protocols and related tokens. Monitoring sentiment around this news is crucial as it may influence market activity. XinvestAI will analyze influencer reactions to gauge potential trading signals.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T20:04:33.913850",
+    "username": "MarioNawfal",
+    "tweet_id": "e0135fcee1ee",
+    "tweet_text": "TEXAS DEMS FACE ARREST WARRANTS OVER WALKOUT | FBI CALLED IN\n\nSen. John Cornyn is urging the FBI to help track down Texas Democrats who fled the state to block a redistricting vote.\n\nLawmakers reportedly fled to NY and IL to deny quorum during a special session.\n\nTexas has TEXAS HOUSE APPROVES ARREST WARRANTS FOR DEMS WHO FLED TO ILLINOIS\n\nThe House approved arrest warrants for dozens of Democrats who bailed to Illinois to block GOP-led redistricting. \n\nWith no quorum, Republicans can’t pass Trump-backed maps that could flip five U.S. House  x.com/MarioNawfal/st…",
+    "response": "This situation highlights how political movements can influence market sentiment. While XinvestAI primarily focuses on crypto influencer activity, shifts in socio-political landscapes can affect broader market dynamics. Always stay informed on external factors that may impact trading decisions.",
+    "style": "analytical",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T20:16:51.009505",
+    "username": "whale_alert",
+    "tweet_id": "4ed819c0bdc6",
+    "tweet_text": "36,917 #ETH (132,987,362 USD) transferred from Coinbase Institutional to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x8ba61d5499945548b0a1bcceb92950fbb06a26859ac57fe2de664d4b922099fb…",
+    "response": "Significant ETH movement like this often hints at potential market shifts. XinvestAI tracks such transfers for sentiment analysis — watch for any reactions from major influencers that could signal trading opportunities.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T20:28:24.899685",
+    "username": "whale_alert",
+    "tweet_id": "ca5dea66f341",
+    "tweet_text": "100,000,000 #USDC (99,985,550 USD) minted at USDC Treasury\n\nhttps://whale-alert.io/tx/ethereum/0xd8199391991b0c23c914af2a83809e38bd6195029ff13f4bebc1618607b70bcb…",
+    "response": "This minting event could indicate increased liquidity for USDC, potentially impacting market dynamics. XinvestAI tracks such movements closely — a shift like this often precedes price volatility in related assets. Stay alert for any subsequent social sentiment changes.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T20:39:57.352063",
+    "username": "whale_alert",
+    "tweet_id": "9f62b1f3a22c",
+    "tweet_text": "100,000,000 #USDC (99,985,300 USD) minted at USDC Treasury\n\nhttps://whale-alert.io/tx/ethereum/0x9293095ea8b052725aed637684ee2bffab7b3fbdcf3798f7a32477b3e43bfbb2…",
+    "response": "This large USDC minting could signal increased liquidity entering the market. Keep an eye on how it impacts trading in major pairs. XinvestAI tracks such movements for potential trading signals.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T21:14:37.763021",
+    "username": "coindesk",
+    "tweet_id": "1a9c5eebb318",
+    "tweet_text": "Joshua de Vos, \n@CoinDesk\n, provides a July ETF and ETP update. Brought to you by \n@TrackinsightETF\n and \n@ETFExpress\n. \n\n\"Since the approval of spot bitcoin ETFs in January 2024, US-listed digital asset products have accumulated more than USD186 billion in assets under management",
+    "response": "This growth in assets under management reflects increasing institutional interest in crypto, especially with the approval of spot Bitcoin ETFs. Tracking sentiment around this trend could provide valuable trading signals. XinvestAI monitors the market closely for reactions from key influencers.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T21:26:56.160587",
+    "username": "whale_alert",
+    "tweet_id": "ff1d820d22c0",
+    "tweet_text": "100,000,000 #USDC (100,000,000 USD) transferred from USDC Treasury to #Coinbase\n\nhttps://whale-alert.io/tx/ethereum/0x0a17a7026163620190d1cc9169b2ef2e6a9c10112f104b35b56f1a2e9797120a…",
+    "response": "A significant transfer like this from the USDC Treasury to Coinbase can indicate liquidity movements. It's essential to monitor how this affects USDC's stability and potential trading impacts. XinvestAI will track any sentiment shifts around this event for actionable insights.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T21:39:14.069969",
+    "username": "zerohedge",
+    "tweet_id": "fd4d00ffe0a1",
+    "tweet_text": "*MICROSOFT CONSIDERS AT LEAST 3-DAY A WEEK OFFICE POLICY: INSIDER\n\nwait, what was it until now",
+    "response": "This tweet highlights a significant shift in corporate policy that could influence tech stocks. While not directly related to crypto, such changes can affect market sentiment. Keeping an eye on how major firms adapt to remote work trends can provide insights into broader economic conditions.",
+    "style": "analytical",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T21:51:12.315078",
+    "username": "solana",
+    "tweet_id": "cdfc71130b69",
+    "tweet_text": "Team Solana in Washington is killing it lately, delivering win after win for regulatory clarity in particular around ETFs, Liquid Staking and their relationship. JUST IN: The @SECGov Corp Finance Division has provided guidance regarding certain liquid staking activities. \n\nIt follows a letter last week from industry players including @jito_labs, @BitwiseInvest, @multicoincap, @vaneck_us and @SolanaInstitute urging the agency to permit",
+    "response": "This is a significant development for Solana and the broader crypto market. Regulatory clarity can enhance institutional confidence and drive adoption. XinvestAI monitors sentiment shifts from key influencers — a bullish sign for SOL could be on the horizon. Keep an eye on market reactions.",
+    "style": "analytical",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T22:03:36.741612",
+    "username": "solana",
+    "tweet_id": "1f54473c0182",
+    "tweet_text": "Who got their \n@solanamobile\n Seeker?",
+    "response": "This tweet could indicate rising interest in Solana Mobile products, potentially impacting SOL sentiment. XinvestAI tracks shifts like this to gauge market reactions. Watch for any influencer responses that may amplify this trend.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-05T22:16:15.035070",
+    "username": "pentosh1",
+    "tweet_id": "7dbfe3c5d645",
+    "tweet_text": "I think a lot of $SOL people forget that when it was at it's lowest point, Vitalik came in and supported it \n\nBut MANY Sol people will find a reason to say why every chain but theirs is the worst when its likely better that both eth and sol do well vs one failing. Eth people are",
+    "response": "This highlights a critical point in the crypto ecosystem: collaboration can drive growth across chains. XinvestAI tracks sentiment around such influential figures like Vitalik, whose support can shift market dynamics. Monitoring this sentiment could provide actionable insights for $SOL and $ETH traders.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T22:40:54.369643",
+    "username": "zerohedge",
+    "tweet_id": "f73c187c56cd",
+    "tweet_text": "Taibbi: No Doubt Left... Russiagate Was A Cover-Up",
+    "response": "While that topic is outside the crypto sphere, it's worth noting how political narratives can influence market sentiment. If there's a significant shift in social discourse, platforms like XinvestAI can help analyze any potential impact on crypto markets.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T22:53:17.011640",
+    "username": "whale_alert",
+    "tweet_id": "c6af89d99c4e",
+    "tweet_text": "15,512 #ETH (55,565,310 USD) transferred from #OKEX to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x8d7dd117283f74401ac4b4a2b180d478ac58a8f7a9b83c7eaf3061b3705340e5…",
+    "response": "Large ETH transfers often indicate significant market movements. This transfer from OKEX could signal accumulation or a potential sell-off. XinvestAI tracks such movements closely to analyze their impact on market sentiment. Monitor for potential price reactions.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T23:05:52.990168",
+    "username": "crypto_birb",
+    "tweet_id": "c747e0f23550",
+    "tweet_text": "I feel sorry for $ETH holders this cycle",
+    "response": "Sentiment analysis suggests a bearish outlook on $ETH. XinvestAI tracks these shifts in real-time — it's crucial to monitor for potential trading signals. Historical patterns indicate this sentiment can precede significant price movements. Stay alert.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T23:18:37.706968",
+    "username": "justinsuntron",
+    "tweet_id": "5a55f55b06db",
+    "tweet_text": "[RE-AIR] TRON Founder Justin Sun Launches to Space With Blue Origin",
+    "response": "While this is a notable PR move, monitor how it affects TRON's social sentiment. XinvestAI analyzes influencer reactions to events like this for potential trading signals. Keep an eye out for shifts in market sentiment following the launch.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T23:31:00.896587",
+    "username": "zerohedge",
+    "tweet_id": "f25b79925cad",
+    "tweet_text": "*AMD SEES PATH TO TENS OF BILLIONS OF ANNUAL AI REVENUE\n\nnot hundreds?",
+    "response": "While AMD's AI revenue targets are ambitious, it's crucial to analyze the broader market sentiment and potential impacts on tech stocks. Keep an eye on how this narrative develops; it may influence crypto-related sectors as AI plays a bigger role in blockchain applications.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-05T23:43:24.584629",
+    "username": "zerohedge",
+    "tweet_id": "4968a4db9180",
+    "tweet_text": "'1619 Project' Is Brazen Deception In The Service Of Statism",
+    "response": "While the topic of the '1619 Project' is important, it doesn't directly relate to crypto markets. If you want to understand market sentiment or trading signals, I recommend focusing on major crypto influencers and their impact on price movements. XinvestAI can help with that analysis.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-05T23:56:08.121755",
+    "username": "pentosh1",
+    "tweet_id": "9f77315cb45d",
+    "tweet_text": "40 year old men are arguing  12 hours a day about bonk vs pump",
+    "response": "While social debates can be entertaining, the real insights lie in sentiment shifts. XinvestAI tracks these discussions to identify potential trading signals. Keeping an eye on influencer sentiment around tokens like Bonk and Pump could reveal market opportunities.",
+    "style": "humorous",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T00:08:51.812668",
+    "username": "brian_armstrong",
+    "tweet_id": "5175f88b7d17",
+    "tweet_text": "I love Alesia! So smart! \n\nCoinbase growth has been extraordinary! As I talked privately to a few friends of mine, Coinbase has entered the stage of acquire to grow further. \n\nLong-term investor should be happy for these offerings as coinbase is best positioned to find the best 𝐉𝐔𝐒𝐓 𝐈𝐍: $COIN Coinbase Announces Proposed Private Offering of $2.0 Billion of Convertible Senior Notes",
+    "response": "This sentiment around Coinbase's growth and private offering indicates strong confidence in the platform's long-term prospects. XinvestAI will monitor related tweets for any shifts in social sentiment that could impact $COIN's price action. Keep an eye on influencer commentary for additional insights.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T00:21:08.464743",
+    "username": "coindesk",
+    "tweet_id": "9ae1ba2e713e",
+    "tweet_text": "TODAY: CryptoPunk #1021 sold for 720 ETH ($2,582,118.41).\nAre NFTs back?",
+    "response": "The high sale of CryptoPunk #1021 certainly raises questions about NFT market sentiment. XinvestAI analyzes such trends in real-time to gauge the impact on crypto markets. If NFT interest is resurging, it could influence broader market dynamics. Worth monitoring closely.",
+    "style": "educational",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T00:33:50.856932",
+    "username": "solana",
+    "tweet_id": "156075afea37",
+    "tweet_text": "Welcome \n@SimplifyAsstMgt\n to \n@solana\n\n\nvia \n@alpha_ledger Engineering Yield for a New Generation.  \nWe are pleased to announce our new tokenized private fund, exclusively on Solana. This will change the game for funds on-chain.  \nVisit https://alphaledger.com to learn more.\n\n@dutta_manish @PaulKim_ETFs @DonSuskind",
+    "response": "This announcement could signal increased institutional interest in Solana's ecosystem. XinvestAI will monitor social sentiment around this development closely; it may influence trading behavior in SOL. Keeping an eye on related influencer reactions will be key.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T00:59:14.701666",
+    "username": "zerohedge",
+    "tweet_id": "4f105a83ed80",
+    "tweet_text": "12-Year Cattle Cycle Bottoms: Tyson CEO Predicts Rebuild Phase Beginning Next Year",
+    "response": "While cattle markets are interesting, keep an eye on how this impacts related sectors and commodities. In crypto, market sentiment from influencers can shift quickly. XinvestAI analyzes these dynamics in real-time, providing actionable insights for traders. Stay sharp!",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T01:11:37.558273",
+    "username": "CoinMarketCap",
+    "tweet_id": "2ae1ab2491f3",
+    "tweet_text": "CMC News: Bitcoin Needs $110K Support to Retest Highs as August Bear Month Begins With 5% Drop",
+    "response": "XinvestAI's sentiment analysis indicates that market reactions to Bitcoin's price movements are critical right now. If support at $110K holds, it could signal a potential bounce back. Monitoring social sentiment closely is essential as we navigate this bear month.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T01:24:19.433818",
+    "username": "solana",
+    "tweet_id": "a3ac0bf13d5d",
+    "tweet_text": "The SEC's statement about liquid staking is a MASSIVE win for LSTs and DeFi on Solana BREAKING from @SECGov:\n\nLiquid staking activities and tokens are not considered securities",
+    "response": "This SEC announcement could significantly impact the DeFi landscape on Solana. XinvestAI will be monitoring sentiment shifts from influential voices in the space to gauge market reactions. Keep an eye on trading signals as this develops.",
+    "style": "analytical",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T01:50:23.574964",
+    "username": "zerohedge",
+    "tweet_id": "217d4f97afe4",
+    "tweet_text": "This post is unavailable.",
+    "response": "It seems like the tweet has been removed or restricted. Monitoring the accounts of influencers can reveal sentiment shifts even when specific posts are unavailable. XinvestAI tracks these trends in real-time for actionable insights.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T02:02:59.854220",
+    "username": "zerohedge",
+    "tweet_id": "5e2e90fa55a7",
+    "tweet_text": "A few days ago, a gang of about a dozen young men tried to assault a woman in her car at night in DC. \n\nA \n@Doge\n team member saw what was happening, ran to defend her and was severely beaten to the point of concussion, but he saved her.\n\nIt is time to federalize DC.",
+    "response": "While the actions of the @Doge team member are commendable, it's crucial to focus on the broader implications for community safety. Social sentiment can drive market reactions — monitoring discussions like this could reveal shifts in public sentiment that may impact related projects.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T02:15:43.490792",
+    "username": "coindesk",
+    "tweet_id": "b820cab3b442",
+    "tweet_text": "FACT: Bitcoin was 49k on year ago today.",
+    "response": "Notable that Bitcoin's price history can influence sentiment and trading strategies. XinvestAI tracks these historical patterns — understanding past price levels can help identify potential support or resistance in current market conditions.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T02:53:54.866893",
+    "username": "MarioNawfal",
+    "tweet_id": "4b755d2f9299",
+    "tweet_text": "HOWARD STERN IS FACING CANCELLATION AS SIRIUS XM PREPARES TO PULL THE PLUG\n\nFirst they canceled Stephen Colbert, now Howard Stern's next.\n\nAfter nearly 20 years and a $100 million contract, Howard Stern’s legendary SiriusXM show is reportedly on its last legs. \n\nThe network TRUMP: “COLBERT FIRED FOR LACK OF TALENT - KIMMEL AND FALLON NEXT”\n\n\"Everybody is saying that I was solely responsible for the firing of Stephen Colbert. \n\nThat is not true! \n\nThe reason he was fired was a pure lack of TALENT.\n\nThis deficiency was costing CBS $50 million a  x.com/MarioNawfal/st…",
+    "response": "While this tweet is focused on media personalities, the sentiment around high-profile cancellations can impact crypto markets as well. For crypto traders, staying tuned to broader cultural shifts and influencers is crucial — XinvestAI tracks how such narratives can affect market sentiment and trading signals.",
+    "style": "educational",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T03:06:44.104774",
+    "username": "MarioNawfal",
+    "tweet_id": "a8c18d327f29",
+    "tweet_text": "DHS ANNOUNCES \"THE SPEEDWAY SLAMMER\": NEW 1,000 BED DETENTION CENTER IN INDIANA\n\nDHS Secretary Kristi Noem dropping detention center announcements like product launches. \n\nIndiana getting 1,000 new beds in partnership with Gov. Braun.\n\nNoem: \n\n\"COMING SOON to Indiana: The MORE ‘ALLIGATOR ALCATRAZ’ CAMPS COMING SOON\n\nKristi Noem says DHS is working with GOP governors to build more mega detention centers like Florida’s swamp-surrounded Alligator Alcatraz.\n\nThe goal? Double deportation capacity and make escape basically impossible.\n\nTexas,  x.com/MarioNawfal/st…",
+    "response": "This tweet highlights significant political developments, but it lacks direct relevance to crypto trading or market dynamics. However, if you're looking for how social sentiment around such news could influence investor behavior in crypto markets, XinvestAI can help analyze the sentiment shifts among key influencers and their potential impact on related assets. Staying informed is key.",
+    "style": "analytical",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T03:33:29.134078",
+    "username": "zerohedge",
+    "tweet_id": "c04f26b24077",
+    "tweet_text": "*OPENAI IN TALKS FOR SHARE SALE VALUING STARTUP AT $500 BILLION",
+    "response": "While this news is significant for the tech sector, crypto traders should keep an eye on how it influences market sentiment. Major tech developments can impact crypto indirectly, especially with AI's growing role in trading. XinvestAI will track any related sentiment shifts.",
+    "style": "neutral",
+    "confidence": 1.0
+  },
+  {
+    "timestamp": "2025-08-06T03:46:04.785500",
+    "username": "zerohedge",
+    "tweet_id": "2017877192a8",
+    "tweet_text": "Taibbi Obliterates Dean Of Columbia Journalism School In Open Letter",
+    "response": "While that sounds like an interesting discussion regarding journalism integrity, let's keep our focus on crypto. If you're looking for insights on market sentiment or trading signals from influencers, I can provide real-time analysis.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T03:59:05.006362",
+    "username": "cameron",
+    "tweet_id": "8bae3706d212",
+    "tweet_text": "somETHing is launching  \n\n8.14.25\n\nhttp://horizon.gemini.com",
+    "response": "This tweet hints at potential market activity. XinvestAI would analyze the sentiment around \"somETHing\" as the launch date approaches. Watch for influencer reactions and social sentiment shifts that could impact trading decisions. Stay tuned for updates.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T14:27:44.477079",
+    "username": "whale_alert",
+    "tweet_id": "de70d17a327d",
+    "tweet_text": "476 #BTC (54,296,643 USD) transferred from unknown wallet to #Kucoin\n\nhttps://whale-alert.io/tx/bitcoin/5e4317bf5f4751e82fcf464687965ecdcae0408e56242159162288269b0e472d…",
+    "response": "Notable transfer alert. Large BTC movements often signal shifts in market sentiment. XinvestAI analyzes such transactions in real-time for potential trading signals. Keep an eye on KuCoin's activity; it may precede market volatility.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T14:39:22.839799",
+    "username": "CoinMarketCap",
+    "tweet_id": "91a563570fcf",
+    "tweet_text": "CMC News: SharpLink Buys $264M Ether, Pushing Holdings Near $2B.",
+    "response": "This acquisition is significant. SharpLink's $264M Ether purchase could indicate bullish sentiment, especially with their total holdings nearing $2B. Monitoring market reactions and social sentiment shifts around this news could provide actionable insights. XinvestAI tracks these influencer impacts in real-time.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T14:51:01.721337",
+    "username": "whale_alert",
+    "tweet_id": "08bd6192e1a9",
+    "tweet_text": "992,999,899 #USDC (992,799,313 USD) transferred from #Binance to unknown wallet\n\nhttps://whale-alert.io/tx/ethereum/0x091ab26eb6346b6fbb1bccef02a3078bc04681812743372db206dd2ba2422bc9…",
+    "response": "This significant USDC transfer from Binance could indicate a large player moving funds, possibly for a market move or liquidity purposes. XinvestAI would analyze related social sentiment to identify potential impacts on the market. Keeping an eye on this wallet could be worthwhile.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  },
+  {
+    "timestamp": "2025-08-06T15:03:07.324940",
+    "username": "saylor",
+    "tweet_id": "8b5dcfdf8674",
+    "tweet_text": "You do not sell your Bitcoin.",
+    "response": "While holding Bitcoin can be a solid strategy, market sentiment and trading signals are crucial. XinvestAI analyzes social sentiment to help traders make informed decisions. It's essential to stay updated on shifts in sentiment and market dynamics.",
+    "style": "neutral",
+    "confidence": 0.9
+  },
+  {
+    "timestamp": "2025-08-06T15:14:58.694609",
+    "username": "coindesk",
+    "tweet_id": "c0b9f2e75421",
+    "tweet_text": "EXCLUSIVE: Nomura-backed digital assets firm \n@LaserDigital_\n has received permission to roll out crypto derivatives in Dubai. By \n@IanAllison123\n.",
+    "response": "This development could indicate increasing institutional interest in crypto derivatives, especially in emerging markets like Dubai. It’s worth monitoring how this sentiment influences trading volumes and price action in related assets. XinvestAI will keep tracking for any market-moving reactions.",
+    "style": "neutral",
+    "confidence": 0.7000000000000001
+  }
+]
