@@ -1,0 +1,374 @@
+{
+  "total_cycles": 1499,
+  "total_responses": 1291,
+  "responses_today": 3,
+  "last_reset_date": "2025-08-06",
+  "start_time": "2025-06-22T22:33:41.946739",
+  "accounts_stats": {
+    "elonmusk": {
+      "checked": 14,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "VitalikButerin": {
+      "checked": 23,
+      "responded": 2,
+      "tweets_found": 3
+    },
+    "cz_binance": {
+      "checked": 23,
+      "responded": 3,
+      "tweets_found": 9
+    },
+    "saylor": {
+      "checked": 28,
+      "responded": 3,
+      "tweets_found": 15
+    },
+    "APompliano": {
+      "checked": 14,
+      "responded": 2,
+      "tweets_found": 2
+    },
+    "DocumentingBTC": {
+      "checked": 25,
+      "responded": 4,
+      "tweets_found": 18
+    },
+    "PlanB_99": {
+      "checked": 6,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "RaoulGMI": {
+      "checked": 6,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "balajis": {
+      "checked": 6,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "brian_armstrong": {
+      "checked": 15,
+      "responded": 2,
+      "tweets_found": 3
+    },
+    "justinsuntron": {
+      "checked": 7,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "erikvoorhees": {
+      "checked": 6,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "CryptoCapo_": {
+      "checked": 3,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "pentosh1": {
+      "checked": 15,
+      "responded": 0,
+      "tweets_found": 15
+    },
+    "crypto_birb": {
+      "checked": 11,
+      "responded": 1,
+      "tweets_found": 8
+    },
+    "cointelegraph": {
+      "checked": 9,
+      "responded": 6,
+      "tweets_found": 17
+    },
+    "BitcoinMagazine": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "coindesk": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "stani": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "haydenzadams": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "AndreCronjeTech": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "CryptMemeCoins": {
+      "checked": 117,
+      "responded": 4,
+      "tweets_found": 15
+    },
+    "cryptomeItdown": {
+      "checked": 1,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "degentrading": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "thedefiedge": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "rektcapital": {
+      "checked": 538,
+      "responded": 62,
+      "tweets_found": 305
+    },
+    "lordofcharts": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "cobie": {
+      "checked": 70,
+      "responded": 4,
+      "tweets_found": 10
+    },
+    "0xfoobar": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "iamDCinvestor": {
+      "checked": 297,
+      "responded": 40,
+      "tweets_found": 145
+    },
+    "CryptoDonAlt": {
+      "checked": 102,
+      "responded": 11,
+      "tweets_found": 52
+    },
+    "scottmelker": {
+      "checked": 1058,
+      "responded": 156,
+      "tweets_found": 746
+    },
+    "degennews": {
+      "checked": 3,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "CoinersTakingLs": {
+      "checked": 8,
+      "responded": 2,
+      "tweets_found": 11
+    },
+    "banteg": {
+      "checked": 3,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "dystopiabreaker": {
+      "checked": 4,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "intern": {
+      "checked": 0,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "RoundtableSpace": {
+      "checked": 1199,
+      "responded": 360,
+      "tweets_found": 715
+    },
+    "AltcoinSherpa": {
+      "checked": 838,
+      "responded": 62,
+      "tweets_found": 443
+    },
+    "solana": {
+      "checked": 436,
+      "responded": 52,
+      "tweets_found": 144
+    },
+    "cb_doge": {
+      "checked": 130,
+      "responded": 13,
+      "tweets_found": 39
+    },
+    "zerohedge": {
+      "checked": 1085,
+      "responded": 286,
+      "tweets_found": 742
+    },
+    "Crypto_Crib_": {
+      "checked": 804,
+      "responded": 58,
+      "tweets_found": 360
+    },
+    "Unipioneer": {
+      "checked": 50,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "AltcoinGordon": {
+      "checked": 289,
+      "responded": 30,
+      "tweets_found": 117
+    },
+    "WatcherGuru": {
+      "checked": 379,
+      "responded": 34,
+      "tweets_found": 216
+    },
+    "i/communities/1699807431709041070": {
+      "checked": 18,
+      "responded": 1,
+      "tweets_found": 4
+    },
+    "i/communities/1473095538211885056": {
+      "checked": 26,
+      "responded": 3,
+      "tweets_found": 8
+    },
+    "i/communities/1847770491798638869": {
+      "checked": 20,
+      "responded": 0,
+      "tweets_found": 3
+    },
+    "i/communities/1533904603997036545": {
+      "checked": 1,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "i/communities/1472225107389071364": {
+      "checked": 252,
+      "responded": 6,
+      "tweets_found": 20
+    },
+    "i/communities/1910972484549067167": {
+      "checked": 208,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "i/communities/1540105672263712768": {
+      "checked": 195,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "i/communities/1849211810152628440": {
+      "checked": 207,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "moonshot": {
+      "checked": 319,
+      "responded": 17,
+      "tweets_found": 89
+    },
+    "Kevsznx": {
+      "checked": 197,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "mercularx": {
+      "checked": 195,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "henn100x": {
+      "checked": 209,
+      "responded": 8,
+      "tweets_found": 13
+    },
+    "ihateoop": {
+      "checked": 224,
+      "responded": 12,
+      "tweets_found": 34
+    },
+    "maxornext": {
+      "checked": 206,
+      "responded": 1,
+      "tweets_found": 7
+    },
+    "casino616": {
+      "checked": 195,
+      "responded": 1,
+      "tweets_found": 1
+    },
+    "ZC_doge": {
+      "checked": 199,
+      "responded": 8,
+      "tweets_found": 13
+    },
+    "earlTrades": {
+      "checked": 190,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "ratwizardx": {
+      "checked": 223,
+      "responded": 9,
+      "tweets_found": 38
+    },
+    "Ga__ke": {
+      "checked": 207,
+      "responded": 3,
+      "tweets_found": 20
+    },
+    "0xmmu": {
+      "checked": 190,
+      "responded": 1,
+      "tweets_found": 5
+    },
+    "Cybereastern": {
+      "checked": 212,
+      "responded": 6,
+      "tweets_found": 19
+    },
+    "waddles_eth": {
+      "checked": 186,
+      "responded": 0,
+      "tweets_found": 0
+    },
+    "BENQIANQAQ": {
+      "checked": 196,
+      "responded": 2,
+      "tweets_found": 3
+    },
+    "igndex": {
+      "checked": 192,
+      "responded": 4,
+      "tweets_found": 5
+    },
+    "jijo_exe": {
+      "checked": 204,
+      "responded": 1,
+      "tweets_found": 6
+    },
+    "huahuayjy": {
+      "checked": 199,
+      "responded": 4,
+      "tweets_found": 12
+    }
+  },
+  "search_efficiency": {
+    "cycles_with_responses": 1291,
+    "cycles_without_responses": 195,
+    "average_tweets_per_cycle": 0
+  }
+}
