@@ -1,0 +1,42 @@
+{
+  "selected_accounts": [
+    "elonmusk",
+    "AndreCronjeTech"
+  ],
+  "bot_settings": {
+    "cycle_interval_minutes": 20,
+    "max_responses_per_cycle": "",
+    "max_daily_responses": "",
+    "min_confidence_threshold": 0.8,
+    "max_tweets_per_account": 5,
+    "show_browser": true,
+    "dry_run": false
+  },
+  "reply_styles": {
+    "default_style": "neutral",
+    "style_weights": {
+      "neutral": 40,
+      "humorous": 20,
+      "analytical": 20,
+      "supportive": 15,
+      "educational": 5
+    },
+    "auto_style_selection": true
+  },
+  "filters": {
+    "min_tweet_length": 20,
+    "max_tweet_length": 280,
+    "blocked_keywords": [
+      "spam",
+      "scam",
+      "pump"
+    ],
+    "required_keywords": [
+      "bitcoin",
+      "crypto",
+      "blockchain",
+      "defi",
+      "nft"
+    ]
+  }
+}

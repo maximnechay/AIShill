@@ -1,0 +1,15 @@
+.env
+__pycache__/
+venv/
+*.log
+*.pyc
+auth/
+auth1/
+auth_alt1/
+auth_alt2/
+auth_main/
+auth_main1/
+auth_main12/
+twitter_auth/
+twitter_auth1/
+devinveest_hub/
